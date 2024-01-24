@@ -1,0 +1,602 @@
+[
+    {
+        "vacancy": "Python developer (Django/Flask) работа в офисе",
+        "company": "Hyper AdTech",
+        "city": "Москва",
+        "salary": "от 200 000 ₽"
+    },
+    {
+        "vacancy": "Руководитель отдела разработки Flussonic Watcher (Python)",
+        "company": "ООО Эрливидео",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Наставник на курс “Middle Python-разработчик”",
+        "company": "Яндекс Практикум",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Python-разработчик (Middle+/Senior)",
+        "company": "Rubbles",
+        "city": "Москва",
+        "salary": "от 250 000 ₽"
+    },
+    {
+        "vacancy": "Senior Backend Developer",
+        "company": "ARK",
+        "city": "Москва",
+        "salary": "до 300 000 ₽"
+    },
+    {
+        "vacancy": "Middle/Senior Data Scientist NLP GigaChat",
+        "company": "Сбер для экспертов",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Python/C++ Software Developer (Scientific platform)",
+        "company": "The Skolkovo Institute of Science and Technology",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Backend разработчик (Python)",
+        "company": "SL Soft",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Python Developer",
+        "company": "ООО Медиапоинт",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Python FastAPI разработчик",
+        "company": "Компания Самолет",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Python-разработчик",
+        "company": "Сбер для экспертов",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Python-разработчик",
+        "company": "АНО ЦИСМ",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Системный администратор Linux / Kubernetes (Middle DevOps инженер)",
+        "company": "ООО РА Дельта",
+        "city": "Москва",
+        "salary": "180 000 – 250 000 ₽"
+    },
+    {
+        "vacancy": "Senior QA Engineer",
+        "company": "Simetra",
+        "city": "Санкт-Петербург",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Senior QA Engineer",
+        "company": "Simetra",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Системный инженер Apple",
+        "company": "Ventra",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Python developer (middle/senior)",
+        "company": "ООО «Баланс-Платформа»",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Ведущий разработчик Python",
+        "company": "Diasoft",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Программист - разработчик Python / PHP Developer",
+        "company": "Имаклик",
+        "city": "Санкт-Петербург",
+        "salary": "до 75 000 ₽"
+    },
+    {
+        "vacancy": "Middle MLOps-инженер",
+        "company": "Rubbles",
+        "city": "Москва",
+        "salary": "от 150 000 ₽"
+    },
+    {
+        "vacancy": "Middle Java Developer",
+        "company": "ООО Формула Ай-Ти",
+        "city": "Санкт-Петербург",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Senior Python developer",
+        "company": "ООО Пункт Е",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Python-разработчик",
+        "company": "Точка",
+        "city": "Москва",
+        "salary": "до 450 000 ₽"
+    },
+    {
+        "vacancy": "Инженер-разработчик систем хранения данных (Python)",
+        "company": "ООО Даком М",
+        "city": "Санкт-Петербург",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "(middle\\senior ) Python-разработчик",
+        "company": "ХОУМ Банк",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Python Developer (DevOps)",
+        "company": "AliExpress",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Программист",
+        "company": "Weborama Russia",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Developer Python",
+        "company": "ООО КСА",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Python-разработчик",
+        "company": "Перфоманс Лаб",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Senior Python Developer",
+        "company": "Divo.ai",
+        "city": "Санкт-Петербург",
+        "salary": "120 000 – 200 000 ₽"
+    },
+    {
+        "vacancy": "Разработчик на Python в финансовую платформу",
+        "company": "Яндекс",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Разработчик на Python в финансовую платформу",
+        "company": "Яндекс",
+        "city": "Санкт-Петербург",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Backend developer Python (Senior) / Бэкенд-разработчик Python",
+        "company": "ООО СТМ",
+        "city": "Санкт-Петербург",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Python Back-end Разработчик / Python Back-end Developer",
+        "company": "Доктор Веб",
+        "city": "Санкт-Петербург",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Разработчик Python",
+        "company": "ПАО «Газпром нефть» Закупки",
+        "city": "Санкт-Петербург",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Python-разработчик",
+        "company": "ООО АФЛТ-Системс",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Разработчик Python ML/Data Engineer",
+        "company": "СИГМА",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Web-программист (Рython) middle",
+        "company": "WelbeX",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Middle backend Python",
+        "company": "ООО РА Дельта",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Python разработчик",
+        "company": "Солар",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Middle+/Senior Python Developer",
+        "company": "ООО БОЛЬШАЯ ТРОЙКА",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Data Scientist (NLP, LLM)",
+        "company": "ООО Иннотех | Финтех (Иннотех)",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "FullStack Senior developer",
+        "company": "ООО Гарда Технологии",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Python Backend / Data Scientist",
+        "company": "ПАО «Газпром нефть» ИТ",
+        "city": "Санкт-Петербург",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Python Backend / Data Scientist",
+        "company": "ПАО «Газпром нефть» ИТ",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Python Developer",
+        "company": "INSITECH Development",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Middle+ JS developer",
+        "company": "JuicyScore",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "DevOps инженер",
+        "company": "ООО Т1",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Fullstack разработчик (Python, JS)",
+        "company": "МАГНИТ, Розничная сеть",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Data Scientist (Моделирование рисков корпоративного кредитования)",
+        "company": "АО Банк ДОМ.РФ",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Инженер по тестированию backend (Python)",
+        "company": "Иви",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Системный инженер (SaaS)",
+        "company": "Rambler&Co",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Python разработчик",
+        "company": "Ростелеком - Центры обработки данных",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Middle+/Senior Python Developer (Django)",
+        "company": "GRI",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Fullstack python devoloper (ESC)",
+        "company": "Positive Technologies",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Machine Learning Lead",
+        "company": "АО АСТ",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Python senior developer/Синьор Python разработчик",
+        "company": "HR Prime",
+        "city": "Москва",
+        "salary": "до 441 000 ₽"
+    },
+    {
+        "vacancy": "Разработчик С/С++ (Цифра Роботикс)",
+        "company": "ООО ЦИФРА",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Python разработчик (Команда MXDR)",
+        "company": "F.A.C.C.T.",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Python/Golang Developer",
+        "company": "Сбер для экспертов",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Разработчик Python (Middle+/Senior)",
+        "company": "Филиал в г. Санкт-Петербург АО Концерн Радиостроения Вега",
+        "city": "Санкт-Петербург",
+        "salary": "от 200 000 ₽"
+    },
+    {
+        "vacancy": "Senior Python Developer (ML)",
+        "company": "Samokat.tech",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Старший разработчик Python",
+        "company": "ПАО «МТС» Кибербезопасность",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Senior Python разработчик (+ Go)",
+        "company": "Wanted",
+        "city": "Москва",
+        "salary": "до 500 000 ₽"
+    },
+    {
+        "vacancy": "Senior Python Developer",
+        "company": "Avalon-IT",
+        "city": "Москва",
+        "salary": "200 000 – 300 000 ₽"
+    },
+    {
+        "vacancy": "Разработчик Python (Риск - стратег) риск-стратегии - чаптер",
+        "company": "Сбер для экспертов",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Python разработчик",
+        "company": "Лига Цифровой Экономики",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Data Scientist (middle)",
+        "company": "ООО 1221Системс",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Data Scientist (middle)",
+        "company": "ООО 1221Системс",
+        "city": "Санкт-Петербург",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Fullstack developer (JS, Python)",
+        "company": "АО АСТ",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Разработчик Python (Риск - стратег) риск-стратегии - чаптер",
+        "company": "Сбер для экспертов",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Старший разработчик Python",
+        "company": "Okko",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Разработчик (Python, Perl)",
+        "company": "Ашманов и партнеры",
+        "city": "Москва",
+        "salary": "от 150 000 ₽"
+    },
+    {
+        "vacancy": "Разработчик Python middle",
+        "company": "Центр Методического Обеспечения Оптимизации Процессов Государственного Управления в Московской области",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Ведущий разработчик Python",
+        "company": "ЗАО 1С",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Разработчик Backend",
+        "company": "ООО А17",
+        "city": "Москва",
+        "salary": "до 300 000 ₽"
+    },
+    {
+        "vacancy": "Ведущий разработчик Python (ML)",
+        "company": "ЗАО 1С",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Python Developer",
+        "company": "Myrtle",
+        "city": "Санкт-Петербург",
+        "salary": "от 300 000 ₽"
+    },
+    {
+        "vacancy": "Fullstack python devoloper (ESC)",
+        "company": "Positive Technologies",
+        "city": "Санкт-Петербург",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Senior Data Scientist (СберБизнес)",
+        "company": "Сбер для экспертов",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Главный специалист (id 127)",
+        "company": "ООО Газпром ЦПС",
+        "city": "Санкт-Петербург",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Backend-разработчик (Senior)",
+        "company": "ООО Вайтлист",
+        "city": "Санкт-Петербург",
+        "salary": "от 450 000 ₽"
+    },
+    {
+        "vacancy": "Разработчик на Python в команду HD-Maps",
+        "company": "SberAutoTech",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "ML-ops инженер",
+        "company": "АТОМ",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "ML-ops инженер",
+        "company": "АТОМ",
+        "city": "Санкт-Петербург",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Team Lead развития сервиса расчета риск-метрик",
+        "company": "МСП Банк",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Backend-Developer Python (middle)",
+        "company": "Онлайн-школа Тетрика",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Senior QA auto engineer",
+        "company": "Rutube",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Python-разработчик",
+        "company": "Сбер для экспертов",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Data Engineer",
+        "company": "МТС Банк. IT",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Старший разработчик Python (команда платформы экспериментов)",
+        "company": "Okko",
+        "city": "Санкт-Петербург",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Python developer",
+        "company": "ООО Норд Клан",
+        "city": "Санкт-Петербург",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Python-разработчик в команду Портала ДИ",
+        "company": "Сбер для экспертов",
+        "city": "Москва",
+        "salary": "от 360 000 ₽"
+    },
+    {
+        "vacancy": "Инженер-разработчик систем хранения данных",
+        "company": "Эффективные люди. Рекрутинговое агентство",
+        "city": "Санкт-Петербург",
+        "salary": "от 200 000 ₽"
+    },
+    {
+        "vacancy": "Python эксперт (преподаватель)",
+        "company": "IBS",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Middle Python MLOps",
+        "company": "Cognitive Pilot",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Специалист по траблшутингу микросервисов",
+        "company": "АВИТО ТЕХ: разработка",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Middle+/Senior Backend Python Developer (АТОМ.ПОИСК)",
+        "company": "АО Гринатом. Центр Разработки.",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Разработчик Python (Senior)",
+        "company": "ООО Страховая компания Сбербанк страхование",
+        "city": "Москва",
+        "salary": "Не указано"
+    },
+    {
+        "vacancy": "Middle \\ Senior разработчик Python Backend",
+        "company": "Ostec",
+        "city": "Москва",
+        "salary": "до 150 000 ₽"
+    }
+]
