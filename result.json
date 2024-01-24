@@ -3,600 +3,700 @@
         "vacancy": "Python developer (Django/Flask) работа в офисе",
         "company": "Hyper AdTech",
         "city": "Москва",
-        "salary": "от 200 000 ₽"
-    },
-    {
-        "vacancy": "Руководитель отдела разработки Flussonic Watcher (Python)",
-        "company": "ООО Эрливидео",
-        "city": "Москва",
-        "salary": "Не указано"
-    },
-    {
-        "vacancy": "Наставник на курс “Middle Python-разработчик”",
-        "company": "Яндекс Практикум",
-        "city": "Москва",
-        "salary": "Не указано"
-    },
-    {
-        "vacancy": "Python-разработчик (Middle+/Senior)",
-        "company": "Rubbles",
-        "city": "Москва",
-        "salary": "от 250 000 ₽"
-    },
-    {
-        "vacancy": "Senior Backend Developer",
-        "company": "ARK",
-        "city": "Москва",
-        "salary": "до 300 000 ₽"
-    },
-    {
-        "vacancy": "Middle/Senior Data Scientist NLP GigaChat",
-        "company": "Сбер для экспертов",
-        "city": "Москва",
-        "salary": "Не указано"
-    },
-    {
-        "vacancy": "Python/C++ Software Developer (Scientific platform)",
-        "company": "The Skolkovo Institute of Science and Technology",
-        "city": "Москва",
-        "salary": "Не указано"
-    },
-    {
-        "vacancy": "Backend разработчик (Python)",
-        "company": "SL Soft",
-        "city": "Москва",
-        "salary": "Не указано"
-    },
-    {
-        "vacancy": "Python Developer",
-        "company": "ООО Медиапоинт",
-        "city": "Москва",
-        "salary": "Не указано"
-    },
-    {
-        "vacancy": "Python FastAPI разработчик",
-        "company": "Компания Самолет",
-        "city": "Москва",
-        "salary": "Не указано"
-    },
-    {
-        "vacancy": "Python-разработчик",
-        "company": "Сбер для экспертов",
-        "city": "Москва",
-        "salary": "Не указано"
-    },
-    {
-        "vacancy": "Python-разработчик",
-        "company": "АНО ЦИСМ",
-        "city": "Москва",
-        "salary": "Не указано"
-    },
-    {
-        "vacancy": "Системный администратор Linux / Kubernetes (Middle DevOps инженер)",
-        "company": "ООО РА Дельта",
-        "city": "Москва",
-        "salary": "180 000 – 250 000 ₽"
-    },
-    {
-        "vacancy": "Senior QA Engineer",
-        "company": "Simetra",
-        "city": "Санкт-Петербург",
-        "salary": "Не указано"
-    },
-    {
-        "vacancy": "Senior QA Engineer",
-        "company": "Simetra",
-        "city": "Москва",
-        "salary": "Не указано"
-    },
-    {
-        "vacancy": "Системный инженер Apple",
-        "company": "Ventra",
-        "city": "Москва",
-        "salary": "Не указано"
-    },
-    {
-        "vacancy": "Python developer (middle/senior)",
-        "company": "ООО «Баланс-Платформа»",
-        "city": "Москва",
-        "salary": "Не указано"
-    },
-    {
-        "vacancy": "Ведущий разработчик Python",
-        "company": "Diasoft",
-        "city": "Москва",
-        "salary": "Не указано"
-    },
-    {
-        "vacancy": "Программист - разработчик Python / PHP Developer",
-        "company": "Имаклик",
-        "city": "Санкт-Петербург",
-        "salary": "до 75 000 ₽"
-    },
-    {
-        "vacancy": "Middle MLOps-инженер",
-        "company": "Rubbles",
-        "city": "Москва",
-        "salary": "от 150 000 ₽"
-    },
-    {
-        "vacancy": "Middle Java Developer",
-        "company": "ООО Формула Ай-Ти",
-        "city": "Санкт-Петербург",
-        "salary": "Не указано"
-    },
-    {
-        "vacancy": "Senior Python developer",
-        "company": "ООО Пункт Е",
-        "city": "Москва",
-        "salary": "Не указано"
-    },
-    {
-        "vacancy": "Python-разработчик",
-        "company": "Точка",
-        "city": "Москва",
-        "salary": "до 450 000 ₽"
-    },
-    {
-        "vacancy": "Инженер-разработчик систем хранения данных (Python)",
-        "company": "ООО Даком М",
-        "city": "Санкт-Петербург",
-        "salary": "Не указано"
-    },
-    {
-        "vacancy": "(middle\\senior ) Python-разработчик",
-        "company": "ХОУМ Банк",
-        "city": "Москва",
-        "salary": "Не указано"
-    },
-    {
-        "vacancy": "Python Developer (DevOps)",
-        "company": "AliExpress",
-        "city": "Москва",
-        "salary": "Не указано"
-    },
-    {
-        "vacancy": "Программист",
-        "company": "Weborama Russia",
-        "city": "Москва",
-        "salary": "Не указано"
+        "salary": "от 200 000 ₽",
+        "link": "https://spb.hh.ru/vacancy/91486275?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Developer Python",
         "company": "ООО КСА",
         "city": "Москва",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/91119129?query=flask&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "vacancy": "Руководитель отдела разработки Flussonic Watcher (Python)",
+        "company": "ООО Эрливидео",
+        "city": "Москва",
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/91267198?query=flask&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "vacancy": "Наставник на курс “Middle Python-разработчик”",
+        "company": "Яндекс Практикум",
+        "city": "Москва",
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/91413225?query=flask&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "vacancy": "Python-разработчик (Middle+/Senior)",
+        "company": "Rubbles",
+        "city": "Москва",
+        "salary": "от 250 000 ₽",
+        "link": "https://spb.hh.ru/vacancy/90880622?query=flask&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "vacancy": "Senior Backend Developer",
+        "company": "ARK",
+        "city": "Москва",
+        "salary": "до 300 000 ₽",
+        "link": "https://spb.hh.ru/vacancy/92121994?query=flask&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "vacancy": "Middle/Senior Data Scientist NLP GigaChat",
+        "company": "Сбер для экспертов",
+        "city": "Москва",
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/92124274?query=flask&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "vacancy": "Python/C++ Software Developer (Scientific platform)",
+        "company": "The Skolkovo Institute of Science and Technology",
+        "city": "Москва",
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/79041274?query=flask&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "vacancy": "Backend разработчик (Python)",
+        "company": "SL Soft",
+        "city": "Москва",
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/88676763?query=flask&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "vacancy": "Python Developer",
+        "company": "ООО Медиапоинт",
+        "city": "Москва",
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/88878122?query=flask&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "vacancy": "Python FastAPI разработчик",
+        "company": "Компания Самолет",
+        "city": "Москва",
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/91524054?query=flask&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "vacancy": "Python-разработчик",
+        "company": "Сбер для экспертов",
+        "city": "Москва",
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/92137470?query=flask&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "vacancy": "Python-разработчик",
+        "company": "АНО ЦИСМ",
+        "city": "Москва",
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/91827329?query=flask&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "vacancy": "Frontend Techlead",
+        "company": "Онлайн-школа Тетрика",
+        "city": "Москва",
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/91652409?query=flask&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "vacancy": "Системный администратор Linux / Kubernetes (Middle DevOps инженер)",
+        "company": "ООО РА Дельта",
+        "city": "Москва",
+        "salary": "180 000 – 250 000 ₽",
+        "link": "https://spb.hh.ru/vacancy/91292655?query=flask&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "vacancy": "Senior QA Engineer",
+        "company": "Simetra",
+        "city": "Санкт-Петербург",
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/92109866?query=flask&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "vacancy": "Senior QA Engineer",
+        "company": "Simetra",
+        "city": "Москва",
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/92109867?query=flask&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "vacancy": "Системный инженер Apple",
+        "company": "Ventra",
+        "city": "Москва",
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/92115680?query=flask&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "vacancy": "Python developer (middle/senior)",
+        "company": "ООО «Баланс-Платформа»",
+        "city": "Москва",
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/88546366?query=flask&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "vacancy": "Ведущий разработчик Python",
+        "company": "Diasoft",
+        "city": "Москва",
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/91314476?query=flask&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "vacancy": "Программист Python",
+        "company": "ООО ЭКО центр АльтраВита",
+        "city": "Москва",
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/92061468?query=flask&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "vacancy": "Программист С++ (middle)",
+        "company": "ProfiStaff",
+        "city": "Москва",
+        "salary": "130 000 – 230 000 ₽",
+        "link": "https://spb.hh.ru/vacancy/91721048?query=flask&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "vacancy": "Middle Java Developer",
+        "company": "ООО Формула Ай-Ти",
+        "city": "Санкт-Петербург",
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/92039063?query=flask&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "vacancy": "Senior Python developer",
+        "company": "ООО Пункт Е",
+        "city": "Москва",
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/91955115?query=flask&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "vacancy": "Python-разработчик",
+        "company": "Точка",
+        "city": "Москва",
+        "salary": "до 450 000 ₽",
+        "link": "https://spb.hh.ru/vacancy/91987693?query=flask&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "vacancy": "Инженер-разработчик систем хранения данных (Python)",
+        "company": "ООО Даком М",
+        "city": "Санкт-Петербург",
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/91366305?query=flask&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "vacancy": "(middle\\senior ) Python-разработчик",
+        "company": "ХОУМ Банк",
+        "city": "Москва",
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/92014036?query=flask&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "vacancy": "Python Developer (DevOps)",
+        "company": "AliExpress",
+        "city": "Москва",
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/90031769?query=flask&hhtmFrom=vacancy_search_list"
+    },
+    {
+        "vacancy": "Программист",
+        "company": "Weborama Russia",
+        "city": "Москва",
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/91397793?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Python-разработчик",
         "company": "Перфоманс Лаб",
         "city": "Москва",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/92001459?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Senior Python Developer",
         "company": "Divo.ai",
         "city": "Санкт-Петербург",
-        "salary": "120 000 – 200 000 ₽"
+        "salary": "120 000 – 200 000 ₽",
+        "link": "https://spb.hh.ru/vacancy/91965431?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Разработчик на Python в финансовую платформу",
         "company": "Яндекс",
         "city": "Москва",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/92031035?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Разработчик на Python в финансовую платформу",
         "company": "Яндекс",
         "city": "Санкт-Петербург",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/92031036?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Backend developer Python (Senior) / Бэкенд-разработчик Python",
         "company": "ООО СТМ",
         "city": "Санкт-Петербург",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/92058952?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Python Back-end Разработчик / Python Back-end Developer",
         "company": "Доктор Веб",
         "city": "Санкт-Петербург",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/46823861?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Разработчик Python",
         "company": "ПАО «Газпром нефть» Закупки",
         "city": "Санкт-Петербург",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/90881235?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Python-разработчик",
         "company": "ООО АФЛТ-Системс",
         "city": "Москва",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/91731310?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Разработчик Python ML/Data Engineer",
         "company": "СИГМА",
         "city": "Москва",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/90315901?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Web-программист (Рython) middle",
         "company": "WelbeX",
         "city": "Москва",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/91948930?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Middle backend Python",
         "company": "ООО РА Дельта",
         "city": "Москва",
-        "salary": "Не указано"
-    },
-    {
-        "vacancy": "Python разработчик",
-        "company": "Солар",
-        "city": "Москва",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/91397308?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Middle+/Senior Python Developer",
         "company": "ООО БОЛЬШАЯ ТРОЙКА",
         "city": "Москва",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/91956430?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Data Scientist (NLP, LLM)",
         "company": "ООО Иннотех | Финтех (Иннотех)",
         "city": "Москва",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/90944456?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "FullStack Senior developer",
         "company": "ООО Гарда Технологии",
         "city": "Москва",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/91800748?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Python Backend / Data Scientist",
         "company": "ПАО «Газпром нефть» ИТ",
         "city": "Санкт-Петербург",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/89846552?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Python Backend / Data Scientist",
         "company": "ПАО «Газпром нефть» ИТ",
         "city": "Москва",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/89846579?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Python Developer",
         "company": "INSITECH Development",
         "city": "Москва",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/90264667?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Middle+ JS developer",
         "company": "JuicyScore",
         "city": "Москва",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/91488495?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "DevOps инженер",
         "company": "ООО Т1",
         "city": "Москва",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/91372651?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Fullstack разработчик (Python, JS)",
         "company": "МАГНИТ, Розничная сеть",
         "city": "Москва",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/91611589?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Data Scientist (Моделирование рисков корпоративного кредитования)",
         "company": "АО Банк ДОМ.РФ",
         "city": "Москва",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/90839347?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Инженер по тестированию backend (Python)",
         "company": "Иви",
         "city": "Москва",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/91952605?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Системный инженер (SaaS)",
         "company": "Rambler&Co",
         "city": "Москва",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/91881895?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Python разработчик",
         "company": "Ростелеком - Центры обработки данных",
         "city": "Москва",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/91665866?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Middle+/Senior Python Developer (Django)",
         "company": "GRI",
         "city": "Москва",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/91919446?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Fullstack python devoloper (ESC)",
         "company": "Positive Technologies",
         "city": "Москва",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/91827540?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Machine Learning Lead",
         "company": "АО АСТ",
         "city": "Москва",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/91641242?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Python senior developer/Синьор Python разработчик",
         "company": "HR Prime",
         "city": "Москва",
-        "salary": "до 441 000 ₽"
+        "salary": "до 441 000 ₽",
+        "link": "https://spb.hh.ru/vacancy/91730526?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Разработчик С/С++ (Цифра Роботикс)",
         "company": "ООО ЦИФРА",
         "city": "Москва",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/91801806?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Python разработчик (Команда MXDR)",
         "company": "F.A.C.C.T.",
         "city": "Москва",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/91795094?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Python/Golang Developer",
         "company": "Сбер для экспертов",
         "city": "Москва",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/91854096?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Разработчик Python (Middle+/Senior)",
         "company": "Филиал в г. Санкт-Петербург АО Концерн Радиостроения Вега",
         "city": "Санкт-Петербург",
-        "salary": "от 200 000 ₽"
+        "salary": "от 200 000 ₽",
+        "link": "https://spb.hh.ru/vacancy/90604662?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Senior Python Developer (ML)",
         "company": "Samokat.tech",
         "city": "Москва",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/90649546?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Старший разработчик Python",
         "company": "ПАО «МТС» Кибербезопасность",
         "city": "Москва",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/91728275?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Senior Python разработчик (+ Go)",
         "company": "Wanted",
         "city": "Москва",
-        "salary": "до 500 000 ₽"
+        "salary": "до 500 000 ₽",
+        "link": "https://spb.hh.ru/vacancy/91545252?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Senior Python Developer",
         "company": "Avalon-IT",
         "city": "Москва",
-        "salary": "200 000 – 300 000 ₽"
+        "salary": "200 000 – 300 000 ₽",
+        "link": "https://spb.hh.ru/vacancy/91251842?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Разработчик Python (Риск - стратег) риск-стратегии - чаптер",
         "company": "Сбер для экспертов",
         "city": "Москва",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/90436417?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Python разработчик",
         "company": "Лига Цифровой Экономики",
         "city": "Москва",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/88643187?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Data Scientist (middle)",
         "company": "ООО 1221Системс",
         "city": "Москва",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/91647145?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Data Scientist (middle)",
         "company": "ООО 1221Системс",
         "city": "Санкт-Петербург",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/91647146?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Fullstack developer (JS, Python)",
         "company": "АО АСТ",
         "city": "Москва",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/91641288?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Разработчик Python (Риск - стратег) риск-стратегии - чаптер",
         "company": "Сбер для экспертов",
         "city": "Москва",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/91471481?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Старший разработчик Python",
         "company": "Okko",
         "city": "Москва",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/87491674?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Разработчик (Python, Perl)",
         "company": "Ашманов и партнеры",
         "city": "Москва",
-        "salary": "от 150 000 ₽"
+        "salary": "от 150 000 ₽",
+        "link": "https://spb.hh.ru/vacancy/91274018?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Разработчик Python middle",
         "company": "Центр Методического Обеспечения Оптимизации Процессов Государственного Управления в Московской области",
         "city": "Москва",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/90446429?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Ведущий разработчик Python",
         "company": "ЗАО 1С",
         "city": "Москва",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/91272280?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Разработчик Backend",
         "company": "ООО А17",
         "city": "Москва",
-        "salary": "до 300 000 ₽"
+        "salary": "до 300 000 ₽",
+        "link": "https://spb.hh.ru/vacancy/91589925?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Ведущий разработчик Python (ML)",
         "company": "ЗАО 1С",
         "city": "Москва",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/91272322?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Python Developer",
         "company": "Myrtle",
         "city": "Санкт-Петербург",
-        "salary": "от 300 000 ₽"
+        "salary": "от 300 000 ₽",
+        "link": "https://spb.hh.ru/vacancy/91546036?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Fullstack python devoloper (ESC)",
         "company": "Positive Technologies",
         "city": "Санкт-Петербург",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/91539705?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Senior Data Scientist (СберБизнес)",
         "company": "Сбер для экспертов",
         "city": "Москва",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/91728595?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Главный специалист (id 127)",
         "company": "ООО Газпром ЦПС",
         "city": "Санкт-Петербург",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/91412798?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Backend-разработчик (Senior)",
         "company": "ООО Вайтлист",
         "city": "Санкт-Петербург",
-        "salary": "от 450 000 ₽"
+        "salary": "от 450 000 ₽",
+        "link": "https://spb.hh.ru/vacancy/91507914?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Разработчик на Python в команду HD-Maps",
         "company": "SberAutoTech",
         "city": "Москва",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/91300473?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "ML-ops инженер",
         "company": "АТОМ",
         "city": "Москва",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/91417628?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "ML-ops инженер",
         "company": "АТОМ",
         "city": "Санкт-Петербург",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/91417629?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Team Lead развития сервиса расчета риск-метрик",
         "company": "МСП Банк",
         "city": "Москва",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/91376193?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Backend-Developer Python (middle)",
         "company": "Онлайн-школа Тетрика",
         "city": "Москва",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/91542763?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Senior QA auto engineer",
         "company": "Rutube",
         "city": "Москва",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/87281393?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Python-разработчик",
         "company": "Сбер для экспертов",
         "city": "Москва",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/91272634?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Data Engineer",
         "company": "МТС Банк. IT",
         "city": "Москва",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/89216786?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Старший разработчик Python (команда платформы экспериментов)",
         "company": "Okko",
         "city": "Санкт-Петербург",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/89124824?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Python developer",
         "company": "ООО Норд Клан",
         "city": "Санкт-Петербург",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/91333120?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Python-разработчик в команду Портала ДИ",
         "company": "Сбер для экспертов",
         "city": "Москва",
-        "salary": "от 360 000 ₽"
+        "salary": "от 360 000 ₽",
+        "link": "https://spb.hh.ru/vacancy/91547500?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Инженер-разработчик систем хранения данных",
         "company": "Эффективные люди. Рекрутинговое агентство",
         "city": "Санкт-Петербург",
-        "salary": "от 200 000 ₽"
+        "salary": "от 200 000 ₽",
+        "link": "https://spb.hh.ru/vacancy/91617136?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Python эксперт (преподаватель)",
         "company": "IBS",
         "city": "Москва",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/90645079?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Middle Python MLOps",
         "company": "Cognitive Pilot",
         "city": "Москва",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/90412955?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Специалист по траблшутингу микросервисов",
         "company": "АВИТО ТЕХ: разработка",
         "city": "Москва",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/89276879?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Middle+/Senior Backend Python Developer (АТОМ.ПОИСК)",
         "company": "АО Гринатом. Центр Разработки.",
         "city": "Москва",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/91330395?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Разработчик Python (Senior)",
         "company": "ООО Страховая компания Сбербанк страхование",
         "city": "Москва",
-        "salary": "Не указано"
+        "salary": "Не указано",
+        "link": "https://spb.hh.ru/vacancy/91138650?query=flask&hhtmFrom=vacancy_search_list"
     },
     {
         "vacancy": "Middle \\ Senior разработчик Python Backend",
         "company": "Ostec",
         "city": "Москва",
-        "salary": "до 150 000 ₽"
+        "salary": "до 150 000 ₽",
+        "link": "https://spb.hh.ru/vacancy/84081902?query=flask&hhtmFrom=vacancy_search_list"
     }
 ]
